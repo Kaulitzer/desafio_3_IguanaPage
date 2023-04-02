@@ -1,0 +1,106 @@
+body{
+    font-family: raleway, sans-serif;
+    font-style: normal;;
+}
+header{
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    width: auto;
+    height: 727px;
+    font-size: 50px;
+    letter-spacing: 0px;
+    margin-top: 7px;
+    opacity: 1;
+    background-image: url(/assets/imgs/bg-header.jpg);
+}
+section{
+    display: flow-root;
+    width: auto;
+    height: 348px;
+    background-color: #000000;
+    color: white;
+    text-align: left;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+article .bloques{
+    float: left;
+    align-items: center;
+}
+.texto{
+    float: left;
+    padding-left: 150px;
+    padding-top: 76px;
+    width: 475px;
+    height: 197px;
+}
+.img_iguana1{
+    width: 399px;
+    height: 237px;
+    padding-right: 150px;
+    padding-left: 102px;
+    padding-top: 45px;
+    margin: 0%;
+}
+section h2{
+    font-size: 40px;
+    width: 356px;
+    height: 47px;
+    padding: 75px 460.5px;
+    margin: 0px;
+}
+.seccion2{
+    background-color: #1E1A13;
+}
+div p{
+    font-size: 25px;
+    text-align: center;
+}
+div i{
+    align-items: center;
+    font-size: 40px;
+    padding: 0px 75px;
+}
+.iconos{
+    align-items: center;
+    padding-left: 225px;
+    display: flow-root;
+}
+div .bloques{
+    height: 202px;
+    width: 202px;
+    float: left;
+    padding-right: 105px;
+}
+ul{
+    display: flow-root;
+    padding-left: 110px;
+    padding-top: 73px;
+    margin: 0%;
+    color: black;
+}
+li{
+    float: left;
+}
+li img{
+    width: 316px;
+    height: 202px;
+    padding-right: 16px;
+}
+footer{
+    width: auto;
+    height: 102px;
+    background-color: #1E1A13;
+    color: #FFFFFF;
+    font-size: 20px;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+footer p{
+    text-align:center;
+    width: 700px;
+    height: 24px;
+    padding: 39px 292px;
+    margin: 0%;
+}
